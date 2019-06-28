@@ -2,5 +2,9 @@ hello
 
 
 Edited by sourav
+<<<<<<< HEAD
 From master
 From ss1
+=======
+From master branch
+>>>>>>> c1e070ce3c0939565f009f40ee4000c44bc842d5
